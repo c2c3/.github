@@ -9,9 +9,5 @@
   We're a not-for-profit group that builds open source tools for the world to use.
 </p>
 
-
-## List of Projects
-Coming soon!
-
 ## Join the Org
 Coast to Coast Code Co is currently a fairly open group of friends working on random projects together. If you'd like to join the group, start by contributing to a few projects and get to know us (and let us get to know you)! If this goes well, let us know you're interested in joining and we'll be in touch!
